@@ -1,0 +1,5 @@
+{
+  "name": "go",
+  "description": "Go example project",
+  "role": "arn:aws:iam::337344593553:role/api-function"
+}

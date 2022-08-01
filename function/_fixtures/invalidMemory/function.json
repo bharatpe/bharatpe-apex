@@ -1,0 +1,8 @@
+{
+  "name": "test",
+  "runtime": "nodejs",
+  "memory": 0,
+  "timeout": 1,
+  "role": "iamrole",
+  "handler": "index.handle"
+}
